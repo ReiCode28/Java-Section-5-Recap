@@ -15,6 +15,7 @@ Using a loop that prints user input 99 times with each line being numbered start
 Counting from 0 to any integer that a user inputs, using scanner and printing on same line. 
 
 <b> Beer </b>
+
 Using For Loop to sing (write out) 99 bottles of beers on the wall song. Loop starts at 99 and finishes at 1. Practicing Decrementing.
 
 <b>Counter Tool Revisited</b>
