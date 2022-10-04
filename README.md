@@ -38,3 +38,28 @@ App prints numbers from 0 to 18
 - if number is a multiple of 5 it is marked "Buzz"
 - if number is a multiple of 3 and 5 it is marked "FizzBuzz"
 
+<b>Guess</b>
+
+User keeps guessing a number until user gets it right. Purpose is to practice using while loops.
+
+<b>Sign In</b>
+
+Application prompts user for a Username and a Password:
+
+-if username and password are correct, the user can log in
+-However, if username and password are incorrect, user cannot log in and is prompted to try again
+-App runs in a loop until correct username and password
+
+<b>Doubles</b>
+
+User rolls a pair of simulated dice until a double is rolled. Purpose is to practice using While Loops.
+
+<b>Java Rolls</b>
+
+A game of luck. If the user rolls:
+
+- 6: The game stops
+- 4: nothing happens, no points
+- Anything else: 1 point
+
+User wins if they can collect at least 3 points before the game ends.
